@@ -2,7 +2,7 @@ I present to you my write ups on tasks in ImaginaryCTF
 
 | Tasks | Category | Write-ups |
 | --- | --- | --- |
-| Discord | misc | [WriteUp]([/Discord (misc)](https://github.com/Ernest1k/CTF-WriteUps/tree/CTF-WriteUps/ImaginaryCTF%202023/Discord%20(misc)) | 
+| Discord | misc | [WriteUp](https://github.com/Ernest1k/CTF-WriteUps/tree/CTF-WriteUps/ImaginaryCTF%202023/Discord%20(misc)) | 
 | Feedback Survey | misc | [WriteUp](https://github.com/Ernest1k/CTF-WriteUps/tree/CTF-WriteUps/ImaginaryCTF%202023/Feedback%20Survey%20(misc)) |
 | Sanity Check | misc | [WriteUp](https://github.com/Ernest1k/CTF-WriteUps/tree/CTF-WriteUps/ImaginaryCTF%202023/Sanity%20Check%20(misc)) |
 | Signpost | misc | [WriteUp]() |
